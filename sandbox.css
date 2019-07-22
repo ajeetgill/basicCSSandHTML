@@ -251,7 +251,7 @@ box-shadow: /* offset-x | offset-y | blur-radius | color */
     font-size: 1.4rem;
     background-color: #00b3b4;
 
-    background-image: url(pattern.png);
+    background-image: url(assets/pattern.png);
     /* background-size: 40px 40px; */
     border: solid 1px #555;
     color: white;

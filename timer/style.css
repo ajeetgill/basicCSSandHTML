@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: fixed no-repeat bottom;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    color: black;
+}
+
+#time {
+    font-size: 10vw;
+}
+h1 {
+    font-size: 7vw;
+    margin-bottom: 3rem;
+}
+
+h2 {
+    font-size: 5.5vw;
+    margin-bottom: 0.5rem;
+    opacity: 0.6;
+}
